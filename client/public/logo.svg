@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100">
+  <path d="M40 20 L60 20 L60 80 L40 80 Z" fill="#0D9488" />
+  <path d="M40 20 L80 20 Q100 20 100 40 Q100 60 80 60 L40 60" fill="none" stroke="#0D9488" stroke-width="20" />
+  <text x="120" y="70" font-family="sans-serif" font-weight="bold" font-size="60" fill="#0D9488">PrimeTrade</text>
+</svg>
